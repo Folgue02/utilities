@@ -1,0 +1,8 @@
+[*]
+indent_size = 4
+
+[*.{pl,nu}]
+indent_style = tab
+
+[*.py]
+indent_style = space
